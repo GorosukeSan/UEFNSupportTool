@@ -1,0 +1,26 @@
+﻿<Window x:Class="UEFNSupportTool.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="MainWindow"
+        SizeToContent="WidthAndHeight" ResizeMode="CanMinimize">
+    <StackPanel Orientation="Vertical" Margin="25">
+        <TextBox 
+            Name="TextBox"
+            MinHeight="200" MaxHeight="200"
+            MinWidth="450" MaxWidth="450"
+            AcceptsReturn="True"
+            ToolTip="入力"
+            VerticalScrollBarVisibility="Visible"
+            HorizontalScrollBarVisibility="Visible"
+            HorizontalAlignment="Center"/>
+        <StackPanel Orientation="Horizontal" Margin="25 25 0 0 ">
+            <Button Content="ペースト" MinWidth="100" Click="ButtonBase_Paste"/>
+            <Button Content="変換" MinWidth="100" Click="Button_Convert"/>
+            <Button Content="コピー" MinWidth="100" Click="ButtonBase_Copy"/>
+            <Button Content="クリア" MinWidth="100" Click="ButtonBase_Clear" />
+        </StackPanel>
+    </StackPanel>
+</Window>

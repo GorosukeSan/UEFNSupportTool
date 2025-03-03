@@ -10,8 +10,7 @@ public class VerseComponent
         "         InstanceComponents(0)=\"/Script/VerseGameplayTags.VerseTagMarkupComponent'VerseTagMarkup'\"";
 
     private static readonly string VerseTagMarkupComponentObject = 
-        @$"
-         Begin Object Class=/Script/VerseGameplayTags.VerseTagMarkupComponent Name=""VerseTagMarkup"" ExportPath=""/Script/VerseGameplayTags.VerseTagMarkupComponent''""
+        @$"         Begin Object Class=/Script/VerseGameplayTags.VerseTagMarkupComponent Name=""VerseTagMarkup"" ExportPath=""/Script/VerseGameplayTags.VerseTagMarkupComponent''""
                      CreationMethod=Instance
          End Object";
     

@@ -8,18 +8,18 @@
     <StackPanel Orientation="Vertical" Margin="25">
         <TextBox 
             Name="TextBox"
-            MinHeight="200" MaxHeight="200"
-            MinWidth="450" MaxWidth="450"
             AcceptsReturn="True"
+            Width="512"
+            Height="256"
             ToolTip="入力"
             VerticalScrollBarVisibility="Visible"
             HorizontalScrollBarVisibility="Visible"
             HorizontalAlignment="Center"/>
-        <StackPanel Orientation="Horizontal" Margin="25 25 0 0 ">
-            <Button Content="ペースト" MinWidth="100" Click="ButtonBase_Paste"/>
-            <Button Content="変換" MinWidth="100" Click="Button_Convert"/>
-            <Button Content="コピー" MinWidth="100" Click="ButtonBase_Copy"/>
-            <Button Content="クリア" MinWidth="100" Click="ButtonBase_Clear" />
+        <StackPanel Orientation="Horizontal" Margin="25 25 0 0 " HorizontalAlignment="Center">
+            <Button Content="ペースト" MinWidth="100" Click="ButtonBase_Paste" Margin="1"/>
+            <Button Content="変換" MinWidth="100" Click="Button_Convert" Margin="1"/>
+            <Button Content="コピー" MinWidth="100" Click="ButtonBase_Copy" Margin="1"/>
+            <Button Content="クリア" MinWidth="100" Click="ButtonBase_Clear" Margin="1"/>
         </StackPanel>
     </StackPanel>
 </UserControl>

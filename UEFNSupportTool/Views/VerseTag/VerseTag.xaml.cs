@@ -29,10 +29,13 @@ public partial class VerseTag : UserControl
 
     private void ButtonBase_Paste(object sender, RoutedEventArgs e)
     {
-        string? text = Clipboard.GetData(DataFormats.Text).ToString();
-        if (text != null)
+        if (Clipboard.ContainsText())
         {
-            TextBox.Text = text;
+            string? text = Clipboard.GetData(DataFormats.Text).ToString();
+            if (text != null)
+            {
+                TextBox.Text = text;
+            }
         }
     }
 }

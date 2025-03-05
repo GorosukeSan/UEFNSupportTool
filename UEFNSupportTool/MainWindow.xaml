@@ -6,10 +6,10 @@
         xmlns:verseTag="clr-namespace:UEFNSupportTool.Views.VerseTag"
         mc:Ignorable="d"
         Title="UEFN Support Tool"
-        ResizeMode="NoResize" SizeToContent="WidthAndHeight">
+        ResizeMode="NoResize" SizeToContent="WidthAndHeight" MaxHeight="512" MaxWidth="1024">
         <TabControl>
             <TabItem Header="Verse Tag">
-                    <verseTag:VerseTag />
+                <verseTag:VerseTag />
             </TabItem>
-        </TabControl>
+    </TabControl>
 </Window>

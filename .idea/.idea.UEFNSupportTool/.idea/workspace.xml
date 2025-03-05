@@ -8,12 +8,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="264e0ed0-1def-4cfb-9cad-69086382a869" name="変更" comment="">
-      <change afterPath="$PROJECT_DIR$/UEFNSupportTool/Views/VerseTag/VerseTag.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UEFNSupportTool/Views/VerseTag/VerseTag.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.UEFNSupportTool/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UEFNSupportTool/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UEFNSupportTool/Properties/LobbyPreview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UEFNSupportTool/Views/LobbyPreview/LobbyPreview.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UEFNSupportTool/Views/LobbyPreview/LobbyPreview.xaml.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.UEFNSupportTool/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UEFNSupportTool/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UEFNSupportTool/MainWindow.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/UEFNSupportTool/MainWindow.xaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UEFNSupportTool/MainWindow.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UEFNSupportTool/MainWindow.xaml.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,46 +21,46 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "GorosukeSan"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;GorosukeSan&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/GorosukeSan/UEFNSupportTool.git",
-    "accountId": "224b3a3e-9526-4575-bdc3-c791b7c8ded5"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/GorosukeSan/UEFNSupportTool.git&quot;,
+    &quot;accountId&quot;: &quot;224b3a3e-9526-4575-bdc3-c791b7c8ded5&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/9f3f6ac2973b52b9b246bc900a441bf6a7cc21b73be1a5faf7f363865e61/XamlReader.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2tr59q87nZ3i7vH1Urn6TJgecGd" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET プロジェクト.Wpf.executor": "Debug",
-    ".NET プロジェクト.名前未設定.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "CppUnrealEngineOptionsId",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET プロジェクト.Wpf.executor&quot;: &quot;Debug&quot;,
+    &quot;.NET プロジェクト.名前未設定.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;CppUnrealEngineOptionsId&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET プロジェクト.Wpf">
     <configuration name="UEFNSupportTool: FolderProfile" type="DotNetMsBuildPublish" factoryName="Publish to IIS">
       <riderPublish configuration="Release" platform="Any CPU" pubxml_path="$PROJECT_DIR$/UEFNSupportTool/Properties/PublishProfiles/FolderProfile.pubxml" />
@@ -101,6 +99,7 @@
       <option name="presentableId" value="Default" />
       <updated>1741097203921</updated>
       <workItem from="1741097205422" duration="658000" />
+      <workItem from="1741100246141" duration="190000" />
     </task>
     <servers />
   </component>

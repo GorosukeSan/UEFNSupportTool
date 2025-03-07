@@ -29,3 +29,6 @@ UEFNに戻り、ビューポートで貼り付けをするとVerseTagMarkupが�
 
 ここまでの流れでエラー（正常に貼り付けが行われない、付与に漏れがあるなど）があれば、不具合報告をする。
 
+# 備考
+UEFNのツールはポジTAさんも制作していたりします。本ソフトにない機能もあるのでオススメです。
+https://github.com/posita33/PositiveUEFNUtility
